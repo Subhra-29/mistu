@@ -1,6 +1,6 @@
 # Amazon Clone - HTML & CSS
 
-Amazon home page clone using HTML and CSS . This project created by Subhas Pramanik.
+This is the clone repository of Amazon India official website only using HTML and CSS. . This project created by Subhas Pramanik.
 
  # Home Page
 
